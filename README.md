@@ -9,3 +9,6 @@
 
 ## 실행 환경
 - `Windows`
+
+## 시연 영상
+- [youtube](https://youtu.be/bkTjxbqNXrc)
