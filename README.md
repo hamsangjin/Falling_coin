@@ -11,4 +11,4 @@
 - `Windows`
 
 ## 시연 영상
-- [youtube](https://youtu.be/bkTjxbqNXrc)
+- [Youtube](https://youtu.be/bkTjxbqNXrc)
